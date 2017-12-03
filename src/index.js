@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import IfApp from "./IfApp";
+// import IfApp from "./IfApp";
 import registerServiceWorker from "./registerServiceWorker";
 
 const events = [
